@@ -16101,6 +16101,20 @@ web3-utils@1.7.0, web3-utils@^1.6.1:
     randombytes "^2.1.0"
     utf8 "3.0.0"
 
+web3uikit@^0.1.118:
+  version "0.1.118"
+  resolved "https://registry.yarnpkg.com/web3uikit/-/web3uikit-0.1.118.tgz#47b85462ff656a9825be4f79a7daf847731d8ac9"
+  integrity sha512-TvQVnD0F36I5rrsFLtl5hkY2vfQTV6mb9fNpJSwAehZrmv9YETLjbIiqkKRBHGOcG5KpdokdUjONPsyJNvuVxw==
+  dependencies:
+    "@storybook/theming" "^6.4.19"
+    "@walletconnect/web3-provider" "^1.7.1"
+    "@web3auth/web3auth" "^0.3.2"
+    moralis "^1.3.2"
+    react-blockies "^1.4.1"
+    react-moralis "^1.3.1"
+    react-router-dom "^6.2.1"
+    styled-components "^5.3.3"
+
 webidl-conversions@^3.0.0:
   version "3.0.1"
   resolved "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
